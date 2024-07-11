@@ -1,0 +1,501 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="TCGplayerUI" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="AddToCartDrawerTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.AddToCartDrawerTest.AddToCartDrawerListosTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="AddToCartDrawerListosTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="AddToCartErrorMessageTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="AdvancedSearch(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Autocomplete(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.Autocomplete.AutocompleteFirstRecommendationTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="AutocompleteFirstRecommendationTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="BuylistAPI(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.BuylistAPI.BuylistMultipleStatuses" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="BuylistMultipleStatuses" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.BuylistAPI.BuylistTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="BuylistTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="BuylistLevelMover(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CartOptimizer(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CartOptimizer.LargecartCartOptimzerTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="LargecartCartOptimzerTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CartSnackbar(Framework.Models.TestData,&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CheckoutProcess(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.CheckoutProcessCreditCardTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CheckoutProcessCreditCardTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.CheckoutWithPayPalOnShoppingCartPage" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CheckoutWithPayPalOnShoppingCartPage" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.ColoradoRDFForMixedOrderTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ColoradoRDFForMixedOrderTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.ColoradoRDFForSingleItemTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ColoradoRDFForSingleItemTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.NoColoradoRDFForPureGiftCardOrderTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="NoColoradoRDFForPureGiftCardOrderTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.PayPalCheckoutForNewGuestUser" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="PayPalCheckoutForNewGuestUser" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.CheckoutProcess.SaveThisCardCheckOutFlowNewDomesticUserTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SaveThisCardCheckOutFlowNewDomesticUserTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="EstimatedDeliveryDateTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="GiftCardTest1(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="GiftCardTest2(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="GuestCheckout(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="GuestSignIn(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="HomePageRegression(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="KickbackAutomation(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.KickbackAutomation.KickbackSummaryTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="KickbackSummaryTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.KickbackAutomation.VerifyBannerInSubscriberKickback" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="VerifyBannerInSubscriberKickback" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Listos(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Login(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="MassEntry(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Miscellaneous(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="MyAccount(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.MyAccount.CollectionTracker" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CollectionTracker" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.MyAccount.PaymentOptionsAtCheckoutTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="PaymentOptionsAtCheckoutTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.MyAccount.RefundRedeemGiftCardPermissionsAndHelp" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="RefundRedeemGiftCardPermissionsAndHelp" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="NewPDpageregressionTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.NewPDpageregressionTest.AddToCart" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="AddToCart" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="OrderCompletePageTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="PageFooter(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ResponsiveShoppingCart(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SaveForLaterRegression(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SearchResultsPage(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.SearchResultsPage.HideOutOfStockFilterTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="HideOutOfStockFilterTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SellerFeedbackPageTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ShippingChanges(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUp(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SubscriptionUpsellInCheckout(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.SubscriptionUpsellInCheckout.SubscriptionUpsellForDomesticUserTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="SubscriptionUpsellForDomesticUserTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="VueAccountNavTests(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueAccountNavTests.MyAccountNavLinksAreInTheCorrectOrder" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="MyAccountNavLinksAreInTheCorrectOrder" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueAccountNavTests.RefundReturnPolicyLinksToHelpPage" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="RefundReturnPolicyLinksToHelpPage" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueAccountNavTests.TCGplayerSubscriptionLinksToInfinitePage" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="TCGplayerSubscriptionLinksToInfinitePage" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="VueAddressesTests(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="VueCartPageTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.BasicMPSinglesTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="BasicMPSinglesTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.ClearCartTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ClearCartTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.PresaleItemInVueCartTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="PresaleItemInVueCartTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.ProductMetaDataInSmallViewVueCartTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ProductMetaDataInSmallViewVueCartTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.ValidateAvailableQuantityInVueCartTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="ValidateAvailableQuantityInVueCartTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCartPageTest.VueCartInternationalUserMarketProductTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="VueCartInternationalUserMarketProductTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="VueCheckoutTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCheckoutTest.VueCheckoutFooterTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="VueCheckoutFooterTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCheckoutTest.VueCheckoutGiftCardPackageItemsInCartAuthUserTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="VueCheckoutGiftCardPackageItemsInCartAuthUserTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="TCGplayerUI.TestCases.MarketPlace.RegressionTest.VueCheckoutTest.VueCheckoutListosPackageItemsInCartAuthUserTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="VueCheckoutListosPackageItemsInCartAuthUserTest" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="VuePaymentsTests(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="WebsiteDataCollectionTest(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+            <Rule Match="All">
+              <Property Name="Namespace" Value="TCGplayerUI.TestCases.CSI.RegressionTests.CSI_InfiniteContentRegression" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="ArticleSearchFilters(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ArticleSearchResultsPage(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="AuthorLandingPage(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Autocomplete(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CardSearchFilters(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="DeckEmbedInArticles(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+            <Rule Match="All">
+              <Property Name="Namespace" Value="TCGplayerUI.TestCases.CSI.RegressionTests.CSI_SubscriptionRegression" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="CancelASubscription(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ChangingPaymentMethod(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ReactivateSubscriptionDifferentPaymentMethod(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ReturningSubscriber(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ReviewHomepage(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="ReviewHomepageNotLoggedIn(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUpWithoutPromoCode(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUpWithPayPal(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUpWithPromoCode(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUpWithPromoCodeInvalidParameterString(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SignUpWithPromoCodeParameterString(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="Subscriptions(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="SubscriptionURLs(&quot;parallel&quot;,&quot;chrome&quot;)" />
+                  <Rule Match="Any">
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
